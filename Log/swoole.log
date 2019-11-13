@@ -1,0 +1,90 @@
+[2019-11-09 17:52:39 $1093.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-09 17:52:39 *1103.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-09 17:52:39 *1105.5]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-09 17:52:39 *1104.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-09 17:52:39 *1106.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-09 17:52:39 #1092.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-09 17:52:39 *1101.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-09 17:52:39 *1100.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-09 17:52:39 *1107.7]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-09 17:52:39 *1102.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-09 17:52:39 $1093.0]	WARNING	swManager_check_exit_status: worker#8[pid=1108] abnormal exit, status=0, signal=1
+[2019-11-09 17:52:39 $1093.0]	WARNING	swManager_check_exit_status: worker#9[pid=1109] abnormal exit, status=0, signal=1
+[2019-11-09 17:52:39 $1093.0]	WARNING	swManager_check_exit_status: worker#10[pid=1110] abnormal exit, status=0, signal=1
+[2019-11-09 17:52:39 $1093.0]	WARNING	swManager_check_exit_status: worker#11[pid=1111] abnormal exit, status=0, signal=1
+tcp服务1  fd:1 已连接
+tcp服务1  fd:1 发送消息:GET / HTTP/1.1
+Host: 127.0.0.1:9502
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://www.websocket-test.com
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: __guid=96992031.72718976017976560.1555743710007.0845; monitor_count=11
+Sec-WebSocket-Key: B+RQu/XYhxRHPZXWksymuA==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+tcp服务1  fd:1 已关闭
+[2019-11-11 16:42:05 *1048.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-11 16:42:05 *1051.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-11 16:42:05 *1050.5]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-11 16:42:05 $1038.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-11 16:42:05 *1052.7]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-11 16:42:05 *1049.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-11 16:42:05 *1046.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-11 16:42:05 #1037.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-11 16:42:05 *1047.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-11 16:42:05 *1045.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-11 16:42:05 $1038.0]	WARNING	swManager_check_exit_status: worker#8[pid=1053] abnormal exit, status=0, signal=1
+[2019-11-11 16:42:05 $1038.0]	WARNING	swManager_check_exit_status: worker#9[pid=1054] abnormal exit, status=0, signal=1
+[2019-11-11 16:42:05 $1038.0]	WARNING	swManager_check_exit_status: worker#10[pid=1055] abnormal exit, status=0, signal=1
+[2019-11-11 16:42:05 $1038.0]	WARNING	swManager_check_exit_status: worker#11[pid=1056] abnormal exit, status=0, signal=1
+[2019-11-11 16:42:05 $1038.0]	WARNING	swManager_check_exit_status: worker#12[pid=1057] abnormal exit, status=0, signal=1
+[2019-11-12 18:56:35 *21038.7]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-12 18:56:35 #21028.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-12 18:56:35 *21032.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-12 18:56:35 *21034.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-12 18:56:35 $21029.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-12 18:56:35 $21029.0]	WARNING	swManager_check_exit_status: worker#8[pid=21039] abnormal exit, status=0, signal=1
+[2019-11-12 18:56:35 $21029.0]	WARNING	swManager_check_exit_status: worker#9[pid=21040] abnormal exit, status=0, signal=1
+[2019-11-12 18:56:35 $21029.0]	WARNING	swManager_check_exit_status: worker#10[pid=21041] abnormal exit, status=0, signal=1
+[2019-11-12 18:56:35 $21029.0]	WARNING	swManager_check_exit_status: worker#11[pid=21042] abnormal exit, status=0, signal=1
+[2019-11-12 18:56:35 $21029.0]	WARNING	swManager_check_exit_status: worker#12[pid=21043] abnormal exit, status=0, signal=1
+[2019-11-12 18:56:35 *21033.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-12 18:56:35 *21031.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-12 18:56:35 *21037.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-12 18:56:35 *21035.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-12 18:56:35 *21036.5]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-13 12:47:42 *36846.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Class 'EasySwoole\Mysqli\Mysqli' not found in /usr/sftp/easyswoole/App/Utility/Pool/MysqlPoolObject.php on line 14
+[2019-11-13 12:47:42 $36844.0]	WARNING	swManager_check_exit_status: worker#0[pid=36846] abnormal exit, status=255, signal=0
+[2019-11-13 12:50:19 *36864.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Class 'EasySwoole\Mysqli\Mysqli' not found in /usr/sftp/easyswoole/App/Utility/Pool/MysqlPoolObject.php on line 14
+[2019-11-13 12:50:19 $36862.0]	WARNING	swManager_check_exit_status: worker#0[pid=36864] abnormal exit, status=255, signal=0
+[2019-11-13 12:54:31 *36911.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Class 'EasySwoole\Mysqli\Mysqli' not found in /usr/sftp/easyswoole/App/Utility/Pool/MysqlPoolObject.php on line 14
+[2019-11-13 12:54:31 $36909.0]	WARNING	swManager_check_exit_status: worker#0[pid=36911] abnormal exit, status=255, signal=0
+[2019-11-13 12:57:21 *36943.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Class 'EasySwoole\Mysqli\Mysqli' not found in /usr/sftp/easyswoole/App/Utility/Pool/MysqlPoolObject.php on line 14
+[2019-11-13 12:57:21 $36941.0]	WARNING	swManager_check_exit_status: worker#0[pid=36943] abnormal exit, status=255, signal=0
+[2019-11-13 12:58:35 *36955.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Class 'EasySwoole\Mysqli\Mysqli' not found in /usr/sftp/easyswoole/App/Utility/Pool/MysqlPoolObject.php on line 14
+[2019-11-13 12:58:35 $36941.0]	WARNING	swManager_check_exit_status: worker#0[pid=36955] abnormal exit, status=255, signal=0
+[2019-11-13 12:58:36 *36944.1]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Class 'EasySwoole\Mysqli\Mysqli' not found in /usr/sftp/easyswoole/App/Utility/Pool/MysqlPoolObject.php on line 14
+[2019-11-13 12:58:36 $36941.0]	WARNING	swManager_check_exit_status: worker#1[pid=36944] abnormal exit, status=255, signal=0
+[2019-11-13 12:59:10 *36983.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Class 'EasySwoole\Mysqli\Mysqli' not found in /usr/sftp/easyswoole/App/Utility/Pool/MysqlPoolObject.php on line 14
+[2019-11-13 12:59:10 $36981.0]	WARNING	swManager_check_exit_status: worker#0[pid=36983] abnormal exit, status=255, signal=0
+[2019-11-13 13:00:24 *36999.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Class 'EasySwoole\Mysqli\Mysqli' not found in /usr/sftp/easyswoole/App/Utility/Pool/MysqlPoolObject.php on line 14
+[2019-11-13 13:00:24 $36997.0]	WARNING	swManager_check_exit_status: worker#0[pid=36999] abnormal exit, status=255, signal=0
+[2019-11-13 13:00:27 *37000.1]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Class 'EasySwoole\Mysqli\Mysqli' not found in /usr/sftp/easyswoole/App/Utility/Pool/MysqlPoolObject.php on line 14
+[2019-11-13 13:00:27 $36997.0]	WARNING	swManager_check_exit_status: worker#1[pid=37000] abnormal exit, status=255, signal=0
+[2019-11-13 13:00:28 *37012.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Class 'EasySwoole\Mysqli\Mysqli' not found in /usr/sftp/easyswoole/App/Utility/Pool/MysqlPoolObject.php on line 14
+[2019-11-13 13:00:28 $36997.0]	WARNING	swManager_check_exit_status: worker#0[pid=37012] abnormal exit, status=255, signal=0
+[2019-11-13 13:02:35 *37013.1]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Class 'EasySwoole\Mysqli\Mysqli' not found in /usr/sftp/easyswoole/App/Utility/Pool/MysqlPoolObject.php on line 14
+[2019-11-13 13:02:35 $36997.0]	WARNING	swManager_check_exit_status: worker#1[pid=37013] abnormal exit, status=255, signal=0
+[2019-11-13 13:12:37 *37055.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Class 'EasySwoole\Mysqli\Mysqli' not found in /usr/sftp/easyswoole/App/Utility/Pool/MysqlPoolObject.php on line 14
+[2019-11-13 13:12:37 $37053.0]	WARNING	swManager_check_exit_status: worker#0[pid=37055] abnormal exit, status=255, signal=0
+[2019-11-13 13:15:54 *37067.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Class 'EasySwoole\Mysqli\Mysqli' not found in /usr/sftp/easyswoole/App/Utility/Pool/MysqlPoolObject.php on line 13
+[2019-11-13 13:15:54 $37053.0]	WARNING	swManager_check_exit_status: worker#0[pid=37067] abnormal exit, status=255, signal=0
+[2019-11-13 13:20:39 *37152.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Class 'EasySwoole\Mysqli\Mysqli' not found in /usr/sftp/easyswoole/App/Utility/Pool/MysqlPoolObject.php on line 13
+[2019-11-13 13:20:39 $37150.0]	WARNING	swManager_check_exit_status: worker#0[pid=37152] abnormal exit, status=255, signal=0

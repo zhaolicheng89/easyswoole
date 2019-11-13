@@ -1,0 +1,414 @@
+[2019-11-11 10:55:47][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 10:55:48][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 10:55:57][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 10:55:58][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 10:56:07][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 10:56:08][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 10:56:17][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 10:56:18][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 10:56:27][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 10:56:28][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 10:56:37][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 10:56:38][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 10:56:47][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 10:56:48][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 10:56:57][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 10:56:58][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 10:57:07][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 10:57:08][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 10:57:17][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 10:57:18][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 10:57:38][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 10:57:39][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 10:57:48][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 10:57:49][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 10:57:58][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 10:57:59][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 10:58:08][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 10:58:09][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 10:58:18][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 10:58:19][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 10:58:28][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 10:58:29][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 10:58:38][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 10:58:39][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 10:58:48][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 10:58:49][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 10:58:58][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 10:58:59][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 10:59:08][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 10:59:09][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 10:59:18][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 10:59:19][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 10:59:28][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 10:59:29][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 10:59:38][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 10:59:39][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 10:59:48][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 10:59:49][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:00:15][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:00:16][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:00:18][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:00:19][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:00:28][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:00:29][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:00:38][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:00:39][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:00:48][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:00:49][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:00:58][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:00:59][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:01:08][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:01:09][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:01:18][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:01:19][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:01:28][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:01:29][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:01:38][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:01:39][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:01:48][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:01:49][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:01:58][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:01:59][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:02:08][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:02:09][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:02:18][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:02:19][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:02:28][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:02:29][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:02:38][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:02:39][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:02:48][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:02:49][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:02:58][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:02:59][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:03:08][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:03:09][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:03:18][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:03:19][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:03:28][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:03:29][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:03:38][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:03:39][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:03:48][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:03:49][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:03:58][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:03:59][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:04:08][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:04:09][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:04:18][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:04:19][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:04:28][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:04:29][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:04:45][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:04:46][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:04:55][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:04:56][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:05:05][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:05:06][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:05:15][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:05:16][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:05:25][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:05:26][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:05:35][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:05:36][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:05:45][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:05:46][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:05:55][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:05:56][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:06:05][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:06:06][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:06:15][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:06:16][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:06:25][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:06:26][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:06:35][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:06:36][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:06:45][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:06:46][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:06:55][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:06:56][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:07:05][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:07:06][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:07:15][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:07:16][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:07:25][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:07:26][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:07:35][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:07:36][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:07:45][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:07:46][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:07:55][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:07:56][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:08:05][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:08:06][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:08:15][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:08:16][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:08:25][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:08:26][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:08:35][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:08:36][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:08:45][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:08:46][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:08:55][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:08:56][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:09:05][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:09:06][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:09:15][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:09:16][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:09:25][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:09:26][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:09:35][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:09:36][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:09:45][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:09:46][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:09:55][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:09:56][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:10:05][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:10:06][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:10:15][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:10:16][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:10:25][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:10:26][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:10:35][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:10:36][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:10:45][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:10:46][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:10:49][DEBUG][ERROR] : [Uncaught InvalidArgumentException: the cron task class EasySwoole\EasySwoole\TaskOne is invalid in /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Crontab/Crontab.php:45
+Stack trace:
+#0 /mnt/d/WWW/easyswoole/EasySwooleEvent.php(62): EasySwoole\EasySwoole\Crontab\Crontab->addTask('EasySwoole\\Easy...')
+#1 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(118): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(46): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /mnt/d/WWW/easyswoole/easyswoole(24): EasySwoole\EasySwoole\Command\CommandRu at file:/mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Crontab/Crontab.php line:45]
+[2019-11-11 11:11:39][DEBUG][ERROR] : [Uncaught InvalidArgumentException: the cron task class EasySwoole\EasySwoole\TaskOne is invalid in /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Crontab/Crontab.php:45
+Stack trace:
+#0 /mnt/d/WWW/easyswoole/EasySwooleEvent.php(62): EasySwoole\EasySwoole\Crontab\Crontab->addTask('EasySwoole\\Easy...')
+#1 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(118): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(46): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /mnt/d/WWW/easyswoole/easyswoole(24): EasySwoole\EasySwoole\Command\CommandRu at file:/mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Crontab/Crontab.php line:45]
+[2019-11-11 11:13:15][DEBUG][ERROR] : [Uncaught InvalidArgumentException: the cron task class EasySwoole\EasySwoole\TaskOne is invalid in /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Crontab/Crontab.php:45
+Stack trace:
+#0 /mnt/d/WWW/easyswoole/EasySwooleEvent.php(62): EasySwoole\EasySwoole\Crontab\Crontab->addTask('EasySwoole\\Easy...')
+#1 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(118): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(46): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /mnt/d/WWW/easyswoole/easyswoole(24): EasySwoole\EasySwoole\Command\CommandRu at file:/mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Crontab/Crontab.php line:45]
+[2019-11-11 11:13:41][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:13:42][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:13:51][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 11:13:52][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 11:14:00][DEBUG][ERROR] : [Uncaught InvalidArgumentException: the cron task class EasySwoole\EasySwoole\TaskOne is invalid in /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Crontab/Crontab.php:45
+Stack trace:
+#0 /mnt/d/WWW/easyswoole/EasySwooleEvent.php(62): EasySwoole\EasySwoole\Crontab\Crontab->addTask('EasySwoole\\Easy...')
+#1 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(118): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(46): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /mnt/d/WWW/easyswoole/easyswoole(24): EasySwoole\EasySwoole\Command\CommandRu at file:/mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Crontab/Crontab.php line:45]
+[2019-11-11 11:22:56][DEBUG][ERROR] : [Uncaught InvalidArgumentException: the cron task class EasySwoole\EasySwoole\TaskOne is invalid in /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Crontab/Crontab.php:45
+Stack trace:
+#0 /mnt/d/WWW/easyswoole/EasySwooleEvent.php(62): EasySwoole\EasySwoole\Crontab\Crontab->addTask('EasySwoole\\Easy...')
+#1 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(118): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(46): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /mnt/d/WWW/easyswoole/easyswoole(24): EasySwoole\EasySwoole\Command\CommandRu at file:/mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Crontab/Crontab.php line:45]
+[2019-11-11 11:28:02][DEBUG][ERROR] : [Uncaught InvalidArgumentException: the cron task class EasySwoole\EasySwoole\TaskOne is invalid in /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Crontab/Crontab.php:45
+Stack trace:
+#0 /mnt/d/WWW/easyswoole/EasySwooleEvent.php(62): EasySwoole\EasySwoole\Crontab\Crontab->addTask('EasySwoole\\Easy...')
+#1 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(118): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(46): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /mnt/d/WWW/easyswoole/easyswoole(24): EasySwoole\EasySwoole\Command\CommandRu at file:/mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Crontab/Crontab.php line:45]
+[2019-11-11 11:29:33][DEBUG][ERROR] : [Uncaught InvalidArgumentException: the cron task class EasySwoole\EasySwoole\TaskOne is invalid in /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Crontab/Crontab.php:45
+Stack trace:
+#0 /mnt/d/WWW/easyswoole/EasySwooleEvent.php(62): EasySwoole\EasySwoole\Crontab\Crontab->addTask('EasySwoole\\Easy...')
+#1 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(118): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(46): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /mnt/d/WWW/easyswoole/easyswoole(24): EasySwoole\EasySwoole\Command\CommandRu at file:/mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Crontab/Crontab.php line:45]
+[2019-11-11 13:08:01][DEBUG][ERROR] : [Uncaught InvalidArgumentException: the cron task class EasySwoole\EasySwoole\TaskOne is invalid in /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Crontab/Crontab.php:45
+Stack trace:
+#0 /mnt/d/WWW/easyswoole/EasySwooleEvent.php(62): EasySwoole\EasySwoole\Crontab\Crontab->addTask('EasySwoole\\Easy...')
+#1 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(118): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(46): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /mnt/d/WWW/easyswoole/easyswoole(24): EasySwoole\EasySwoole\Command\CommandRu at file:/mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Crontab/Crontab.php line:45]
+[2019-11-11 13:13:43][DEBUG][ERROR] : [Uncaught InvalidArgumentException: the cron task class EasySwoole\EasySwoole\TaskOne is invalid in /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Crontab/Crontab.php:45
+Stack trace:
+#0 /mnt/d/WWW/easyswoole/EasySwooleEvent.php(64): EasySwoole\EasySwoole\Crontab\Crontab->addTask('EasySwoole\\Easy...')
+#1 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(118): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(46): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /mnt/d/WWW/easyswoole/easyswoole(24): EasySwoole\EasySwoole\Command\CommandRu at file:/mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Crontab/Crontab.php line:45]
+[2019-11-11 13:59:12][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 13:59:13][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 13:59:22][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 13:59:23][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 13:59:32][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 13:59:33][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 13:59:42][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 13:59:43][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 13:59:52][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 13:59:53][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 14:00:02][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 14:00:03][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 14:00:12][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 14:00:13][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 14:00:22][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 14:00:23][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 14:00:32][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 14:00:33][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 14:00:42][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 14:00:43][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 14:00:52][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 14:00:53][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 14:01:02][DEBUG][UNKNOWN] : [time 2]
+[2019-11-11 14:01:03][DEBUG][UNKNOWN] : [time 3]
+[2019-11-11 14:30:36][DEBUG][ERROR] : [Uncaught InvalidArgumentException: the cron task class EasySwoole\EasySwoole\TaskOne is invalid in /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Crontab/Crontab.php:45
+Stack trace:
+#0 /mnt/d/WWW/easyswoole/EasySwooleEvent.php(28): EasySwoole\EasySwoole\Crontab\Crontab->addTask('EasySwoole\\Easy...')
+#1 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(118): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(46): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /mnt/d/WWW/easyswoole/easyswoole(24): EasySwoole\EasySwoole\Command\CommandRu at file:/mnt/d/WWW/easyswoole/vendor/easyswoole/easyswoole/src/Crontab/Crontab.php line:45]
+[2019-11-12 16:57:52][DEBUG][ERROR] : [listen /mnt/hgfs/WWW/easyswoole/Temp/TaskWorker.fcce5581d6be0f3a066f7bc0ea2582270.sock fail at class EasySwoole\Task\Worker at file:/mnt/hgfs/WWW/easyswoole/vendor/easyswoole/component/src/Process/Socket/AbstractUnixProcess.php line:32]
+[2019-11-12 16:57:52][DEBUG][ERROR] : [listen /mnt/hgfs/WWW/easyswoole/Temp/TaskWorker.fcce5581d6be0f3a066f7bc0ea2582271.sock fail at class EasySwoole\Task\Worker at file:/mnt/hgfs/WWW/easyswoole/vendor/easyswoole/component/src/Process/Socket/AbstractUnixProcess.php line:32]
+[2019-11-12 16:57:52][DEBUG][ERROR] : [listen /mnt/hgfs/WWW/easyswoole/Temp/TaskWorker.fcce5581d6be0f3a066f7bc0ea2582272.sock fail at class EasySwoole\Task\Worker at file:/mnt/hgfs/WWW/easyswoole/vendor/easyswoole/component/src/Process/Socket/AbstractUnixProcess.php line:32]
+[2019-11-12 16:57:52][DEBUG][ERROR] : [listen /mnt/hgfs/WWW/easyswoole/Temp/TaskWorker.fcce5581d6be0f3a066f7bc0ea2582273.sock fail at class EasySwoole\Task\Worker at file:/mnt/hgfs/WWW/easyswoole/vendor/easyswoole/component/src/Process/Socket/AbstractUnixProcess.php line:32]
+[2019-11-12 18:56:35][DEBUG][ERROR] : [listen /mnt/hgfs/WWW/easyswoole/Temp/TaskWorker.fcce5581d6be0f3a066f7bc0ea2582271.sock fail at class EasySwoole\Task\Worker at file:/mnt/hgfs/WWW/easyswoole/vendor/easyswoole/component/src/Process/Socket/AbstractUnixProcess.php line:32]
+[2019-11-12 18:56:35][DEBUG][ERROR] : [listen /mnt/hgfs/WWW/easyswoole/Temp/TaskWorker.fcce5581d6be0f3a066f7bc0ea2582270.sock fail at class EasySwoole\Task\Worker at file:/mnt/hgfs/WWW/easyswoole/vendor/easyswoole/component/src/Process/Socket/AbstractUnixProcess.php line:32]
+[2019-11-12 18:56:35][DEBUG][ERROR] : [listen /mnt/hgfs/WWW/easyswoole/Temp/TaskWorker.fcce5581d6be0f3a066f7bc0ea2582272.sock fail at class EasySwoole\Task\Worker at file:/mnt/hgfs/WWW/easyswoole/vendor/easyswoole/component/src/Process/Socket/AbstractUnixProcess.php line:32]
+[2019-11-12 18:56:35][DEBUG][ERROR] : [listen /mnt/hgfs/WWW/easyswoole/Temp/TaskWorker.fcce5581d6be0f3a066f7bc0ea2582273.sock fail at class EasySwoole\Task\Worker at file:/mnt/hgfs/WWW/easyswoole/vendor/easyswoole/component/src/Process/Socket/AbstractUnixProcess.php line:32]
+[2019-11-13 08:41:24][DEBUG][ERROR] : [Uncaught Swoole\Exception: failed to listen server port[0.0.0.0:9501], Error: Address already in use[98] in /usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php:59
+Stack trace:
+#0 /usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(59): Swoole\Server->__construct('0.0.0.0', 9501, 2, 1)
+#1 /usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(114): EasySwoole\EasySwoole\ServerManager->createSwooleServer(9501, 2, '0.0.0.0', Array, 2, 1)
+#2 /usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(46): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /usr/sftp/easyswoole/easyswoole(24): EasySwoole\EasySwoole\Command\CommandRunner->ru at file:/usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php line:59]
+[2019-11-13 08:51:31][DEBUG][ERROR] : [Uncaught Swoole\Exception: failed to listen server port[0.0.0.0:9501], Error: Address already in use[98] in /usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php:59
+Stack trace:
+#0 /usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(59): Swoole\Server->__construct('0.0.0.0', 9501, 2, 1)
+#1 /usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(114): EasySwoole\EasySwoole\ServerManager->createSwooleServer(9501, 2, '0.0.0.0', Array, 2, 1)
+#2 /usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(46): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /usr/sftp/easyswoole/easyswoole(24): EasySwoole\EasySwoole\Command\CommandRunner->ru at file:/usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php line:59]
+[2019-11-13 08:53:37][DEBUG][ERROR] : [Uncaught Swoole\Exception: failed to listen server port[0.0.0.0:9501], Error: Address already in use[98] in /usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php:59
+Stack trace:
+#0 /usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(59): Swoole\Server->__construct('0.0.0.0', 9501, 2, 1)
+#1 /usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(114): EasySwoole\EasySwoole\ServerManager->createSwooleServer(9501, 2, '0.0.0.0', Array, 2, 1)
+#2 /usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(46): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /usr/sftp/easyswoole/easyswoole(24): EasySwoole\EasySwoole\Command\CommandRunner->ru at file:/usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php line:59]
+[2019-11-13 08:55:02][DEBUG][ERROR] : [Uncaught Swoole\Exception: failed to listen server port[0.0.0.0:9501], Error: Address already in use[98] in /usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php:59
+Stack trace:
+#0 /usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(59): Swoole\Server->__construct('0.0.0.0', 9501, 2, 1)
+#1 /usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(114): EasySwoole\EasySwoole\ServerManager->createSwooleServer(9501, 2, '0.0.0.0', Array, 2, 1)
+#2 /usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(46): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /usr/sftp/easyswoole/easyswoole(24): EasySwoole\EasySwoole\Command\CommandRunner->ru at file:/usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php line:59]
+[2019-11-13 11:04:36][DEBUG][ERROR] : [Too few arguments to function App\HttpController\BaseController::__construct(), 0 passed in /usr/sftp/easyswoole/vendor/easyswoole/http/src/Dispatcher.php on line 219 and exactly 1 expected at file:/usr/sftp/easyswoole/App/HttpController/BaseController.php line:17]
+[2019-11-13 11:04:37][DEBUG][ERROR] : [Too few arguments to function App\HttpController\BaseController::__construct(), 0 passed in /usr/sftp/easyswoole/vendor/easyswoole/http/src/Dispatcher.php on line 219 and exactly 1 expected at file:/usr/sftp/easyswoole/App/HttpController/BaseController.php line:17]
+[2019-11-13 11:04:37][DEBUG][ERROR] : [Too few arguments to function App\HttpController\BaseController::__construct(), 0 passed in /usr/sftp/easyswoole/vendor/easyswoole/http/src/Dispatcher.php on line 219 and exactly 1 expected at file:/usr/sftp/easyswoole/App/HttpController/BaseController.php line:17]
+[2019-11-13 11:04:37][DEBUG][ERROR] : [Too few arguments to function App\HttpController\BaseController::__construct(), 0 passed in /usr/sftp/easyswoole/vendor/easyswoole/http/src/Dispatcher.php on line 219 and exactly 1 expected at file:/usr/sftp/easyswoole/App/HttpController/BaseController.php line:17]
+[2019-11-13 11:04:37][DEBUG][ERROR] : [Too few arguments to function App\HttpController\BaseController::__construct(), 0 passed in /usr/sftp/easyswoole/vendor/easyswoole/http/src/Dispatcher.php on line 219 and exactly 1 expected at file:/usr/sftp/easyswoole/App/HttpController/BaseController.php line:17]
+[2019-11-13 11:06:44][DEBUG][ERROR] : [Too few arguments to function App\HttpController\BaseController::__construct(), 0 passed in /usr/sftp/easyswoole/vendor/easyswoole/http/src/Dispatcher.php on line 219 and exactly 1 expected at file:/usr/sftp/easyswoole/App/HttpController/BaseController.php line:17]
+[2019-11-13 11:06:45][DEBUG][ERROR] : [Too few arguments to function App\HttpController\BaseController::__construct(), 0 passed in /usr/sftp/easyswoole/vendor/easyswoole/http/src/Dispatcher.php on line 219 and exactly 1 expected at file:/usr/sftp/easyswoole/App/HttpController/BaseController.php line:17]
+[2019-11-13 11:11:19][DEBUG][ERROR] : [Too few arguments to function App\HttpController\BaseController::__construct(), 0 passed in /usr/sftp/easyswoole/vendor/easyswoole/http/src/Dispatcher.php on line 219 and exactly 1 expected at file:/usr/sftp/easyswoole/App/HttpController/BaseController.php line:17]
+[2019-11-13 11:15:49][DEBUG][ERROR] : [Too few arguments to function App\HttpController\BaseController::__construct(), 0 passed in /usr/sftp/easyswoole/vendor/easyswoole/http/src/Dispatcher.php on line 219 and exactly 1 expected at file:/usr/sftp/easyswoole/App/HttpController/BaseController.php line:18]
+[2019-11-13 11:15:49][DEBUG][ERROR] : [Too few arguments to function App\HttpController\BaseController::__construct(), 0 passed in /usr/sftp/easyswoole/vendor/easyswoole/http/src/Dispatcher.php on line 219 and exactly 1 expected at file:/usr/sftp/easyswoole/App/HttpController/BaseController.php line:18]
+[2019-11-13 11:15:49][DEBUG][ERROR] : [Too few arguments to function App\HttpController\BaseController::__construct(), 0 passed in /usr/sftp/easyswoole/vendor/easyswoole/http/src/Dispatcher.php on line 219 and exactly 1 expected at file:/usr/sftp/easyswoole/App/HttpController/BaseController.php line:18]
+[2019-11-13 11:20:45][DEBUG][ERROR] : [Too few arguments to function App\HttpController\BaseController::__construct(), 0 passed in /usr/sftp/easyswoole/vendor/easyswoole/http/src/Dispatcher.php on line 219 and exactly 1 expected at file:/usr/sftp/easyswoole/App/HttpController/BaseController.php line:18]
+[2019-11-13 11:20:46][DEBUG][ERROR] : [Too few arguments to function App\HttpController\BaseController::__construct(), 0 passed in /usr/sftp/easyswoole/vendor/easyswoole/http/src/Dispatcher.php on line 219 and exactly 1 expected at file:/usr/sftp/easyswoole/App/HttpController/BaseController.php line:18]
+[2019-11-13 11:30:47][DEBUG][ERROR] : [Call to a member function defer() on null at file:/usr/sftp/easyswoole/App/HttpController/BaseController.php line:21]
+[2019-11-13 11:30:48][DEBUG][ERROR] : [Call to a member function defer() on null at file:/usr/sftp/easyswoole/App/HttpController/BaseController.php line:21]
+[2019-11-13 11:56:33][DEBUG][ERROR] : [Call to a member function defer() on null at file:/usr/sftp/easyswoole/App/HttpController/BaseController.php line:21]
+[2019-11-13 11:56:34][DEBUG][ERROR] : [Call to a member function defer() on null at file:/usr/sftp/easyswoole/App/HttpController/BaseController.php line:21]
+[2019-11-13 11:56:38][DEBUG][ERROR] : [Call to a member function defer() on null at file:/usr/sftp/easyswoole/App/HttpController/BaseController.php line:21]
+[2019-11-13 11:56:44][DEBUG][ERROR] : [Call to a member function defer() on null at file:/usr/sftp/easyswoole/App/HttpController/BaseController.php line:21]
+[2019-11-13 11:57:27][DEBUG][ERROR] : [Call to a member function defer() on null at file:/usr/sftp/easyswoole/App/HttpController/BaseController.php line:21]
+[2019-11-13 11:57:28][DEBUG][ERROR] : [Call to a member function defer() on null at file:/usr/sftp/easyswoole/App/HttpController/BaseController.php line:21]
+[2019-11-13 11:57:28][DEBUG][ERROR] : [Call to a member function defer() on null at file:/usr/sftp/easyswoole/App/HttpController/BaseController.php line:21]
+[2019-11-13 11:57:28][DEBUG][ERROR] : [Call to a member function defer() on null at file:/usr/sftp/easyswoole/App/HttpController/BaseController.php line:21]
+[2019-11-13 11:57:28][DEBUG][ERROR] : [Call to a member function defer() on null at file:/usr/sftp/easyswoole/App/HttpController/BaseController.php line:21]
+[2019-11-13 11:57:29][DEBUG][ERROR] : [Call to a member function defer() on null at file:/usr/sftp/easyswoole/App/HttpController/BaseController.php line:21]
+[2019-11-13 11:57:31][DEBUG][ERROR] : [Call to a member function defer() on null at file:/usr/sftp/easyswoole/App/HttpController/BaseController.php line:21]
+[2019-11-13 11:59:51][DEBUG][ERROR] : [Call to a member function defer() on null at file:/usr/sftp/easyswoole/App/HttpController/BaseController.php line:27]
+[2019-11-13 11:59:52][DEBUG][ERROR] : [Call to a member function defer() on null at file:/usr/sftp/easyswoole/App/HttpController/BaseController.php line:27]
+[2019-11-13 11:59:52][DEBUG][ERROR] : [Call to a member function defer() on null at file:/usr/sftp/easyswoole/App/HttpController/BaseController.php line:27]
+[2019-11-13 11:59:52][DEBUG][ERROR] : [Call to a member function defer() on null at file:/usr/sftp/easyswoole/App/HttpController/BaseController.php line:27]
+[2019-11-13 11:59:52][DEBUG][ERROR] : [Call to a member function defer() on null at file:/usr/sftp/easyswoole/App/HttpController/BaseController.php line:27]
+[2019-11-13 11:59:52][DEBUG][ERROR] : [Call to a member function defer() on null at file:/usr/sftp/easyswoole/App/HttpController/BaseController.php line:27]
+[2019-11-13 11:59:52][DEBUG][ERROR] : [Call to a member function defer() on null at file:/usr/sftp/easyswoole/App/HttpController/BaseController.php line:27]
+[2019-11-13 12:00:42][DEBUG][ERROR] : [Call to a member function defer() on null at file:/usr/sftp/easyswoole/App/HttpController/BaseController.php line:27]
+[2019-11-13 12:00:43][DEBUG][ERROR] : [Call to a member function defer() on null at file:/usr/sftp/easyswoole/App/HttpController/BaseController.php line:27]
+[2019-11-13 12:00:43][DEBUG][ERROR] : [Call to a member function defer() on null at file:/usr/sftp/easyswoole/App/HttpController/BaseController.php line:27]
+[2019-11-13 12:01:01][DEBUG][ERROR] : [Call to a member function defer() on null at file:/usr/sftp/easyswoole/App/HttpController/Api/Common/Banner.php line:29]
+[2019-11-13 12:01:01][DEBUG][ERROR] : [Call to a member function defer() on null at file:/usr/sftp/easyswoole/App/HttpController/Api/Common/Banner.php line:29]
+[2019-11-13 12:01:01][DEBUG][ERROR] : [Call to a member function defer() on null at file:/usr/sftp/easyswoole/App/HttpController/Api/Common/Banner.php line:29]
+[2019-11-13 12:01:01][DEBUG][ERROR] : [Call to a member function defer() on null at file:/usr/sftp/easyswoole/App/HttpController/Api/Common/Banner.php line:29]
+[2019-11-13 12:01:02][DEBUG][ERROR] : [Call to a member function defer() on null at file:/usr/sftp/easyswoole/App/HttpController/Api/Common/Banner.php line:29]
+[2019-11-13 12:01:02][DEBUG][ERROR] : [Call to a member function defer() on null at file:/usr/sftp/easyswoole/App/HttpController/Api/Common/Banner.php line:29]
+[2019-11-13 12:01:02][DEBUG][ERROR] : [Call to a member function defer() on null at file:/usr/sftp/easyswoole/App/HttpController/Api/Common/Banner.php line:29]
+[2019-11-13 12:02:36][DEBUG][ERROR] : [Too few arguments to function App\HttpController\Api\Common\Banner::__construct(), 0 passed in /usr/sftp/easyswoole/vendor/easyswoole/http/src/Dispatcher.php on line 219 and exactly 1 expected at file:/usr/sftp/easyswoole/App/HttpController/Api/Common/Banner.php line:28]
+[2019-11-13 12:03:27][DEBUG][ERROR] : [Call to a member function defer() on null at file:/usr/sftp/easyswoole/App/HttpController/Api/Common/Banner.php line:30]
+[2019-11-13 12:03:28][DEBUG][ERROR] : [Call to a member function defer() on null at file:/usr/sftp/easyswoole/App/HttpController/Api/Common/Banner.php line:30]
+[2019-11-13 12:03:28][DEBUG][ERROR] : [Call to a member function defer() on null at file:/usr/sftp/easyswoole/App/HttpController/Api/Common/Banner.php line:30]
+[2019-11-13 12:03:28][DEBUG][ERROR] : [Call to a member function defer() on null at file:/usr/sftp/easyswoole/App/HttpController/Api/Common/Banner.php line:30]
+[2019-11-13 12:03:28][DEBUG][ERROR] : [Call to a member function defer() on null at file:/usr/sftp/easyswoole/App/HttpController/Api/Common/Banner.php line:30]
+[2019-11-13 12:42:26][DEBUG][ERROR] : [Uncaught Error: Class 'EasySwoole\EasySwoole\Crontab' not found in /usr/sftp/easyswoole/EasySwooleEvent.php:32
+Stack trace:
+#0 /usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(118): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(46): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /usr/sftp/easyswoole/easyswoole(24): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown at file:/usr/sftp/easyswoole/EasySwooleEvent.php line:32]
+[2019-11-13 12:43:30][DEBUG][ERROR] : [Uncaught Error: Class 'EasySwoole\EasySwoole\Crontab' not found in /usr/sftp/easyswoole/EasySwooleEvent.php:33
+Stack trace:
+#0 /usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(118): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(46): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /usr/sftp/easyswoole/easyswoole(24): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown at file:/usr/sftp/easyswoole/EasySwooleEvent.php line:33]
+[2019-11-13 12:45:14][DEBUG][ERROR] : [Uncaught Error: Class 'EasySwoole\EasySwoole\Crontab' not found in /usr/sftp/easyswoole/EasySwooleEvent.php:34
+Stack trace:
+#0 /usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(118): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(46): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /usr/sftp/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /usr/sftp/easyswoole/easyswoole(24): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown at file:/usr/sftp/easyswoole/EasySwooleEvent.php line:34]
+[2019-11-13 12:47:42][DEBUG][ERROR] : [Class 'EasySwoole\Mysqli\Mysqli' not found at file:/usr/sftp/easyswoole/App/Utility/Pool/MysqlPoolObject.php line:14]
+[2019-11-13 12:50:19][DEBUG][ERROR] : [Class 'EasySwoole\Mysqli\Mysqli' not found at file:/usr/sftp/easyswoole/App/Utility/Pool/MysqlPoolObject.php line:14]
+[2019-11-13 12:54:31][DEBUG][ERROR] : [Class 'EasySwoole\Mysqli\Mysqli' not found at file:/usr/sftp/easyswoole/App/Utility/Pool/MysqlPoolObject.php line:14]
+[2019-11-13 12:57:21][DEBUG][ERROR] : [Class 'EasySwoole\Mysqli\Mysqli' not found at file:/usr/sftp/easyswoole/App/Utility/Pool/MysqlPoolObject.php line:14]
+[2019-11-13 12:58:35][DEBUG][ERROR] : [Class 'EasySwoole\Mysqli\Mysqli' not found at file:/usr/sftp/easyswoole/App/Utility/Pool/MysqlPoolObject.php line:14]
+[2019-11-13 12:58:36][DEBUG][ERROR] : [Class 'EasySwoole\Mysqli\Mysqli' not found at file:/usr/sftp/easyswoole/App/Utility/Pool/MysqlPoolObject.php line:14]
+[2019-11-13 12:59:10][DEBUG][ERROR] : [Class 'EasySwoole\Mysqli\Mysqli' not found at file:/usr/sftp/easyswoole/App/Utility/Pool/MysqlPoolObject.php line:14]
+[2019-11-13 13:00:24][DEBUG][ERROR] : [Class 'EasySwoole\Mysqli\Mysqli' not found at file:/usr/sftp/easyswoole/App/Utility/Pool/MysqlPoolObject.php line:14]
+[2019-11-13 13:00:27][DEBUG][ERROR] : [Class 'EasySwoole\Mysqli\Mysqli' not found at file:/usr/sftp/easyswoole/App/Utility/Pool/MysqlPoolObject.php line:14]
+[2019-11-13 13:00:28][DEBUG][ERROR] : [Class 'EasySwoole\Mysqli\Mysqli' not found at file:/usr/sftp/easyswoole/App/Utility/Pool/MysqlPoolObject.php line:14]
+[2019-11-13 13:02:35][DEBUG][ERROR] : [Class 'EasySwoole\Mysqli\Mysqli' not found at file:/usr/sftp/easyswoole/App/Utility/Pool/MysqlPoolObject.php line:14]
+[2019-11-13 13:12:37][DEBUG][ERROR] : [Class 'EasySwoole\Mysqli\Mysqli' not found at file:/usr/sftp/easyswoole/App/Utility/Pool/MysqlPoolObject.php line:14]
+[2019-11-13 13:15:54][DEBUG][ERROR] : [Class 'EasySwoole\Mysqli\Mysqli' not found at file:/usr/sftp/easyswoole/App/Utility/Pool/MysqlPoolObject.php line:13]
+[2019-11-13 13:20:39][DEBUG][ERROR] : [Class 'EasySwoole\Mysqli\Mysqli' not found at file:/usr/sftp/easyswoole/App/Utility/Pool/MysqlPoolObject.php line:13]
