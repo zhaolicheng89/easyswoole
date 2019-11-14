@@ -5,7 +5,7 @@
  * Date: 2019/11/11
  * Time: 11:09
  */
-namespace App;
+namespace App\Crontab;
 use EasySwoole\EasySwoole\Crontab\AbstractCronTask;
 use EasySwoole\EasySwoole\Task\TaskManager;
 use App\Model\Admin\BannerModel;

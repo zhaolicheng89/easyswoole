@@ -6,7 +6,7 @@
  * Time: 下午2:14
  */
 
-namespace App\Task;
+namespace App\Crontab;
 
 
 use EasySwoole\EasySwoole\Crontab\AbstractCronTask;

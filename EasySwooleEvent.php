@@ -2,8 +2,8 @@
 namespace EasySwoole\EasySwoole;
 use App\Process\Inotify;
 use App\Queue\Queue;
-use App\Task\JdClient;
-use App\Task\JdGoodClient;
+use App\Crontab\JdClient;
+use App\Crontab\JdGoodClient;
 use App\Template;
 use App\Utility\Pool\MysqlPool;
 use App\Utility\Pool\RedisPool;
@@ -14,10 +14,11 @@ use EasySwoole\Http\Request;
 use EasySwoole\Http\Response;
 use EasySwoole\Pool\Manager;
 use EasySwoole\Template\Render;
-use EasySwoole\EasySwoole\Crontab;
-use App\Task\CrontabTask;
+use App\Crontab\CrontabTask;
+use App\Crontab\TaskOne;
 use EasySwoole\ORM\DbManager;
 use EasySwoole\ORM\Db\Connection;
+use EasySwoole\EasySwoole\Crontab\Crontab;
 class EasySwooleEvent implements Event
 {
 
@@ -41,8 +42,31 @@ class EasySwooleEvent implements Event
         // TODO: Implement mainServerCreate() method.
 
         // 开始一个定时任务计划
-        //Crontab::getInstance()->addTask(CrontabTask::class);
-       // Crontab::getInstance()->addTask(TaskOne::class);
+//        Crontab::getInstance()->addTask(CrontabTask::class);
+//        Crontab::getInstance()->addTask(TaskOne::class);
+        // 开始一个Timer定时器 支持毫秒
+//        \EasySwoole\Component\Timer::getInstance()->after(1 * 1000, function () {
+//            echo "ten seconds later\n";
+//        });
+        $register->add(EventRegister::onWorkerStart, function (\swoole_server $server, $workerId) {
+            //如何避免定时器因为进程重启而丢失
+            //例如在第一个进程 添加一个10秒的定时器
+            if ($workerId == 0) {
+                \EasySwoole\Component\Timer::getInstance()->loop(1 * 1000, function () {
+                    // 从数据库，或者是redis中，去获取下个就近10秒内需要执行的任务
+                    // 例如:2秒后一个任务，3秒后一个任务 代码如下
+                    \EasySwoole\Component\Timer::getInstance()->after(2 * 1000, function () {
+                        //为了防止因为任务阻塞，引起定时器不准确，把任务给异步进程处理
+                        echo "定时任务已开启！";
+                        Logger::getInstance()->console("time 2", false);
+                    });
+                    \EasySwoole\Component\Timer::getInstance()->after(3 * 1000, function () {
+                        //为了防止因为任务阻塞，引起定时器不准确，把任务给异步进程处理
+                        Logger::getInstance()->console("time 3", false);
+                    });
+                });
+            }
+        });
         ################# tcp 服务器1 没有处理粘包 #####################
 //        $tcp1ventRegister = $subPort1 = ServerManager::getInstance()->addServer('tcp1', 9502, SWOOLE_TCP, '127.0.0.1', [
 //            'open_length_check' => false,//不验证数据包
@@ -57,25 +81,6 @@ class EasySwooleEvent implements Event
 //        });
 //        $tcp1ventRegister->set(EventRegister::onReceive,function (\swoole_server $server, int $fd, int $reactor_id, string $data) {
 //            echo "tcp服务1  fd:{$fd} 发送消息:{$data}\n";
-//        });
-//        $register->add(EventRegister::onWorkerStart, function (\swoole_server $server, $workerId) {
-//            //如何避免定时器因为进程重启而丢失
-//            //例如在第一个进程 添加一个10秒的定时器
-//            if ($workerId == 0) {
-//                \EasySwoole\Component\Timer::getInstance()->loop(10 * 1000, function () {
-//                    // 从数据库，或者是redis中，去获取下个就近10秒内需要执行的任务
-//                    // 例如:2秒后一个任务，3秒后一个任务 代码如下
-//                    \EasySwoole\Component\Timer::getInstance()->after(2 * 1000, function () {
-//                        //为了防止因为任务阻塞，引起定时器不准确，把任务给异步进程处理
-//                        echo "定时任务已开启！";
-//                        Logger::getInstance()->console("time 2", false);
-//                    });
-//                    \EasySwoole\Component\Timer::getInstance()->after(3 * 1000, function () {
-//                        //为了防止因为任务阻塞，引起定时器不准确，把任务给异步进程处理
-//                        Logger::getInstance()->console("time 3", false);
-//                    });
-//                });
-//            }
 //        });
 
     }
